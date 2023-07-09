@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Omkar pokale</h1>
+ <h1 align="center">Hi 👋, I'm Omkar pokale</h1>
 <h3 align="center">A passionate developer</h3>
 
-<img align="right" alt="coding" width"400" src="![image](https://github.com/omkar101202/omkar101202/assets/113609429/b17774af-4fee-495d-8a05-fc4db934f62b)
-">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkar101202&label=Profile%20views&color=0e75b6&style=flat" alt="omkar101202" /> </p>
 
